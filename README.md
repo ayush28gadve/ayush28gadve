@@ -87,24 +87,14 @@
 | 🤖 AI Projects: **4 live** | 🥇 Generative AI Model — NxtWave 2025 |
 | 💪 MORE COMING IN 2026! | 🚀 MORE COMING IN 2026! |
 
+
 ### 📊 GitHub Stats Visualization
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayush28gadve&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&text_color=58A6FF&icon_color=58A6FF&title_color=00C9FF&theme=synthwave" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush28gadve&layout=compact&hide_border=true&bg_color=0D1117&text_color=58A6FF&title_color=00C9FF&langs_count=8&theme=synthwave" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush28gadve&theme=dark&hide_border=true&background=0D1117&ring=00C9FF&fire=FF6B6B&currStreakLabel=00C9FF&sideLabels=58A6FF&dates=666666" width="65%"/>
-
-<br/>
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush28gadve&bg_color=0D1117&color=58A6FF&line=00C9FF&point=ffffff&area=true&area_color=00C9FF30&hide_border=true" width="100%"/>
 
 </div>
-
----
-
 ##
 ---
 
