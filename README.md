@@ -96,60 +96,6 @@
 
 </div>
 ##
----
-
-## 🎯 Featured Projects
-
-### 🏆 Project Showcase
-
-| 1️⃣ **Smart Complaint Sorter — Civic AI Platform** | 2️⃣ **OrinAI — Intelligent AI Assistant** |
-|---|---|
-| [![Stack](https://img.shields.io/badge/React-Node.js-61DAFB?style=flat-square)](https://github.com/ayush28gadve/Smart-Complaint-Sorter) [![Stack](https://img.shields.io/badge/Python-OpenCV-3776AB?style=flat-square)](https://github.com/ayush28gadve/Smart-Complaint-Sorter) | [![Stack](https://img.shields.io/badge/Python-LangChain-3776AB?style=flat-square)](https://github.com/ayush28gadve/OrinAI) [![Stack](https://img.shields.io/badge/OpenAI-API-412991?style=flat-square)](https://github.com/ayush28gadve/OrinAI) |
-| 🧠 **AI-powered civic complaint auto-routing platform** | 🔮 **LLM-powered intelligent AI system for smart assistance** |
-| **Features:** | **Features:** |
-| 📷 Upload photo → AI auto-detects issue type | 🧠 LLM-powered reasoning & context engine |
-| 🗺️ Geotag & location detection via AI | 💬 Context-aware conversational interface |
-| 🏛️ Smart routing: potholes, garbage, water, electricity | ⚙️ Agentic task automation support |
-| 🤖 Automated classification pipeline | 🔗 Modular and extensible architecture |
-| 📊 Department-specific dashboards | 🚀 Production-ready AI integration |
-| 🔗 [GitHub Repo](https://github.com/ayush28gadve/Smart-Complaint-Sorter) | 🔗 [GitHub Repo](https://github.com/ayush28gadve/OrinAI) |
-
-| 3️⃣ **Nutrition Planner — AI Diet System** | 4️⃣ **HealthTech — Doctor-Patient Portal** |
-|---|---|
-| [![Stack](https://img.shields.io/badge/Python-Flask-3776AB?style=flat-square)](https://github.com/ayush28gadve/Nutrition-Plan) [![Stack](https://img.shields.io/badge/React-MongoDB-61DAFB?style=flat-square)](https://github.com/ayush28gadve/Nutrition-Plan) | [![Stack](https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square)](https://github.com/ayush28gadve/Health-Tech) [![Stack](https://img.shields.io/badge/Firebase-Auth-FFCA28?style=flat-square)](https://github.com/ayush28gadve/Health-Tech) |
-| 🥗 **AI-based personalized nutrition recommendation system** | 🏥 **Full-featured doctor-patient appointment portal** |
-| **Features:** | **Features:** |
-| 📝 Input age, weight, height, activity level | 👨‍⚕️ Dual dashboards: Doctor & Patient views |
-| 🍽️ AI-generated personalized nutrition plans | 📅 Appointment booking & management |
-| 🎯 Goal-based diet suggestions | 🗂️ Patient health records system |
-| 📈 Health metric tracking over time | 🔔 Notification & reminder automation |
-| 🔗 [GitHub Repo](https://github.com/ayush28gadve/Nutrition-Plan) | 🔗 [GitHub Repo](https://github.com/ayush28gadve/Health-Tech) |
-
-| 5️⃣ **CityPulse — Smart City Platform** | 6️⃣ **ChronicCare — Chronic Disease Monitor** |
-|---|---|
-| [![Stack](https://img.shields.io/badge/Next.js-PostgreSQL-000000?style=flat-square)](https://github.com/ayush28gadve/CityPulse) [![Stack](https://img.shields.io/badge/Python-OpenCV-3776AB?style=flat-square)](https://github.com/ayush28gadve/CityPulse) | [![Stack](https://img.shields.io/badge/React-Node.js-61DAFB?style=flat-square)](https://github.com/ayush28gadve/ChronicCare) [![Stack](https://img.shields.io/badge/MongoDB-Firebase-47A248?style=flat-square)](https://github.com/ayush28gadve/ChronicCare) |
-| 🏙️ **Expanded smart city civic issue & community platform** | 💊 **Chronic disease monitoring & patient care management** |
-| **Features:** | **Features:** |
-| 🏙️ Full civic issue lifecycle management | 🩺 Chronic condition tracking & insights |
-| 🗺️ Map-integrated real-time issue tracking | 📋 Personalized health & medication plans |
-| 📊 Analytics dashboard for city officials | 🔔 Medication and check-up reminders |
-| 👥 Community engagement & upvoting system | 📈 Progress visualization dashboard |
-| 🤖 AI-assisted issue triage & prioritization | 👨‍⚕️ Doctor-patient communication tools |
-| 🔗 [GitHub Repo](https://github.com/ayush28gadve/CityPulse) | 🔗 [GitHub Repo](https://github.com/ayush28gadve/ChronicCare) |
-
-| 7️⃣ **InboxIQ — Agentic AI Email & Meeting Assistant** |
-|---|
-| [![Stack](https://img.shields.io/badge/Python-LangChain-3776AB?style=flat-square)](https://github.com/ayush28gadve/InboxIQ) [![Stack](https://img.shields.io/badge/OpenAI-Gmail_API-412991?style=flat-square)](https://github.com/ayush28gadve/InboxIQ) [![Stack](https://img.shields.io/badge/Google-Calendar_API-4285F4?style=flat-square)](https://github.com/ayush28gadve/InboxIQ) |
-| 📬 **Production-grade agentic AI productivity system — fully autonomous meeting & communication pipeline** |
-| **Features:** |
-| 📅 Smart meeting scheduling with automatic time-collision detection |
-| 📝 Pre-meeting agenda generation before every session |
-| 🎬 Post-meeting text + video summary generation |
-| 📧 Autonomous email dispatch to all participants after meetings |
-| 🤖 End-to-end agentic workflow — zero manual input required |
-| 🔗 [GitHub Repo](https://github.com/ayush28gadve/InboxIQ) &nbsp;&nbsp;&nbsp; 🔗 [All Repos](https://github.com/ayush28gadve?tab=repositories) |
-
----
 
 ## 🎓 Continuous Learning
 
