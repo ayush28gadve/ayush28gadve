@@ -88,15 +88,6 @@
 | 💪 MORE COMING IN 2026! | 🚀 MORE COMING IN 2026! |
 
 
-### 📊 GitHub Stats Visualization
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush28gadve&bg_color=0D1117&color=58A6FF&line=00C9FF&point=ffffff&area=true&area_color=00C9FF30&hide_border=true" width="100%"/>
-
-</div>
-##
-
 ## 🎓 Continuous Learning
 
 > **"Every day is an opportunity to learn something new and build something better."**
