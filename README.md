@@ -71,21 +71,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </div>
----
-## 📈 Stats & Achievements
-
-<div align="center">
-
-### 🔥 GitHub Coding Stats
-
-| 💻 GITHUB STATS | 🏆 ACHIEVEMENTS |
-|:---:|:---:|
-| 📦 Repositories: **16+** | 🥇 Bharatiya Antariksh Hackathon — ISRO 2025 |
-| 🔥 Active Since: **2023** | 🥇 AI with Machine Learning — IIT Kanpur 2025 |
-| 🌐 Open Source: **Contributor** | 🥇 Smart India Hackathon — MoE 2025 |
-| 🚀 Projects Shipped: **7 major** | 🥇 AI & ML with Data Science — IIT Madras 2025 |
-| 🤖 AI Projects: **4 live** | 🥇 Generative AI Model — NxtWave 2025 |
-| 💪 MORE COMING IN 2026! | 🚀 MORE COMING IN 2026! |
 
 
 ## 🎓 Continuous Learning
