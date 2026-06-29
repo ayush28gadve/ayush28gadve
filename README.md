@@ -86,29 +86,7 @@
 - 📊 **Data Engineering** — ETL workflows, feature engineering, data pipelines
 - 👁️ **Computer Vision** — Advanced OpenCV, real-time object detection, video AI
 
-### Learning Resources:
 
-📚 Andrej Karpathy's Courses &nbsp;|&nbsp; 🎓 Stanford CS229 &nbsp;|&nbsp; 🔍 arXiv Research Papers &nbsp;|&nbsp; 💻 Open Source Contributions &nbsp;|&nbsp; 🚀 Building Real Projects
-
----
-
-## 🌟 Soft Skills & Values
-
-
-<div align="center">
-
-| 💡 Skill | 🔍 What It Means |
-|:---:|:---|
-| 💡 Problem Solving | Break it down. Build it up. Every bug is a lesson. |
-| 🤝 Team Collaboration | Great products are built together, not alone. |
-| 📚 Continuous Learning | The stack evolves. So do I. Always leveling up. |
-| 🚀 Execution-Focused | Ideas mean nothing without relentless execution. |
-| 🎯 Goal-Driven Mindset | Think in systems. Ship in sprints. |
-| 💬 Clear Communication | No jargon. No noise. Just clarity and action. |
-
-</div>`
-
----
 
 ## 🤝 Let's Connect & Collaborate
 
