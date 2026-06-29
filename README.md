@@ -107,17 +107,7 @@
 [![Email](https://img.shields.io/badge/Email-ayushgadve106@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushgadve106@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+91_7972082364-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917972082364)
 
----
 
-## 💬 Words to Live By
-
-> **"Code is not just logic — it's a solution to someone's real problem."**
-
-> **"Consistency beats talent when talent doesn't ship."**
-
-> **"The best engineers don't just write code. They build impact."**
-
----
 
 ### 🚀 Always Building. Always Learning. Always Growing.
 
